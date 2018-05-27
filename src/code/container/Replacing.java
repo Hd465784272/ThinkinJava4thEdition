@@ -1,4 +1,4 @@
-package code.holdingYourObj;
+package code.container;
 
 public class Replacing {
 	static String dream = Splitting.dream;
