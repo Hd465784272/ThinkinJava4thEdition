@@ -36,7 +36,6 @@ public class LiteralPetCreator extends PetCreator {
     System.out.println(types);
     for(Class<? extends Pet> pClass :types){
     	System.out.print(pClass.getSimpleName()+" ");
-    	System.out.println("hi~");
     }
   }
 } 
