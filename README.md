@@ -11,6 +11,6 @@ ____________华丽分割线___________
 	code.string			字符串				DONE				
 	code.container			容器				DONE
 	code.IO				java IO系统			
-	code.enum			枚举				ED_0
-	code.annotation			注解				ED_0
-	code.concurrency		并发性				ED_0
+	code.enum			枚举				
+	code.annotation			注解				
+	code.concurrency		并发性				
